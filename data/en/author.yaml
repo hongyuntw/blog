@@ -1,0 +1,19 @@
+# some information about you
+name: "hongyun"
+nickname: "hongyun"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/patrick.jpeg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "harrychiang0@gmail.com"
+
+# some summary about what you do
+summary:
+  - I am a student in CSIE of NTUST
+  - I mainly research on Natural Language Processing and Speech
+  # - I am a Developer
+  # - I am a Devops
+  # - I love servers
+  # - I work on open-source projects
+  # - I love to work with some fun projects

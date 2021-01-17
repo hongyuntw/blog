@@ -1,7 +1,7 @@
-baseURL = "https://hongyuntw.github.io/"
-languageCode = "zh-tw"
-title = "hongyun's blog"
-theme = "toha"
+baseURL: "https://hongyuntw.github.io/"
+languageCode: "zh-tw"
+title: "hongyun's blog"
+theme: "toha"
 
 # Control TOC depth
 markup:
@@ -16,7 +16,7 @@ enableEmoji: true
 # Site parameters
 params:
   # GitHub repo URL of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/hongyuntw/hongyuntw.github.io
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
