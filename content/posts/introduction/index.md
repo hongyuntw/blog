@@ -8,7 +8,7 @@ menu:
     identifier: introduction
     weight: 10
 author:
-  name: 
+  name: hongyun
 math: true
 ---
 
@@ -46,7 +46,7 @@ math: true
 
 | 活動、競賽                                                   | 名次                 | 時間              |
 | ------------------------------------------------------------ | -------------------- | ----------------- |
-| TSMC x Microsoft Careerhack 2020                             | 復賽 / TBD           | 2020/10 - 2021/01 |
+| TSMC x Microsoft Careerhack 2020 - Mixed Reality Group       | 2nd                  | 2020/10 - 2021/01 |
 | Formosa Speech Recognition Challenge 2020 -Taiwanese ASR     | TBD                  | 2020/12 - 2020/01 |
 | I’m the Best Coder! Challenge 2020 Shopee 蝦皮購物 一日數據分析競賽 | 參與                 | 2020/11           |
 | AI CUP 2020 醫病訊息決策與對話語料分析競賽                   | 參賽                 | 2020/09 - 2020/12 |
@@ -57,6 +57,8 @@ math: true
 
 
 ## 學歷
+
+國立清華大學 資訊工程系 碩士 | 2021年9月 - 
 
 國立臺灣科技大學 資訊工程系 學士 | 2017年6月 - 2021年6月
 
