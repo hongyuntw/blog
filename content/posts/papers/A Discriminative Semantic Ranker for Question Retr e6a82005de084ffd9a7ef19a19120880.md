@@ -5,7 +5,7 @@ hero: /images/posts/writing-posts/git.svg
 menu:
   sidebar:
     name: A Discriminative Semantic Ranker for Question Retrieval
-    identifier: markdown
+    identifier: A Discriminative Semantic Ranker for Question Retrieval
     parent: papers
     weight: 10
 author:
