@@ -1,0 +1,57 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: "student"
+# your company information
+company:
+  name: NTHU.
+  # url: ""
+
+# your resume. this file path should be relative to you "static" directory
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: "Sometimes ever, sometimes never."
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/hongyuntw"
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/hongyuntw"
+- name: Medium
+  icon: "fab fa-medium"
+  url: "https://hongyun.medium.com/"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Python
+  percentage: 100
+  color: blue
+- name: Pytorch
+  percentage: 100
+  color: pink
+- name: NLP
+  percentage: 100
+  color: yellow
+- name: Speech
+  percentage: 100
+  color: green
+- name: Web
+  percentage: 100
+  color: sky
+- name: App
+  percentage: 100
+  color: orange

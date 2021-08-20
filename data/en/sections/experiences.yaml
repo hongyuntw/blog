@@ -1,0 +1,87 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+
+# - company:
+#     name: National Tsing Hua University 
+#     url: "https://www.nlplab.cc"
+#     location: Hsinchu City, Taiwan.
+#     # company overview
+#     # overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+#   positions:
+#   - designation: Master
+#     start: Sep 2021
+#     # end: Jan 2021
+#     # don't provide end date if you are currently working there. It will be replaced by "Present"
+#     # end: Dec 2020
+#     # give some points about what was your responsibilities at the company.
+#     responsibilities:
+#     - NLP Lab with advisor Jason S. Chang.
+- company:
+    name: Institute of Information Science, Academia Sinica 中研院資科所
+    url: "https://www.iis.sinica.edu.tw/zh/index.html"
+    location: Taipei City, Taiwan.
+    # overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+  positions:
+  - designation: Project Developer
+    start: Feb 2021
+    end: Aug 2021
+    responsibilities:
+    - Participate Conversational Open Domain Document-based Natural Speech Q&A System (COSQA) project, mainly research on information retrieval module.
+- company:
+    name: E.SUN Bank. 玉山銀行 數位金融處
+    url: "https://www.esunfhc.com/zh-tw/"
+    location: Taipei City, Taiwan.
+    # overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+  positions:
+  - designation: Machine Learning Intern
+    start: Oct 2020
+    end: Jan 2021
+    responsibilities:
+    - Research on speech synthesis(Text To Speech) projects
+    - Implement novel model on Speech Conversion and Voice Style Control .
+    - using Flowtron, Mellotron, VQVC+, SpeechSplit etc
+
+- company:
+    name: GIGABYTE. 技嘉科技
+    url: "https://www.gigabyte.com/tw"
+    location: NewTaipei City, Taiwan.
+    # company overview
+    # overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+  positions:
+  - designation: Programming Intern
+    start: Feb 2020
+    end: Sep 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Design and develop Website Backend for E-commerce e7Line
+    - Optimized product search engine with some NLP skills.
+    - using BERT, Word2Vec etc
+
+
+# - company:
+#     name: National Taiwan University of Science and Technology 
+#     url: "https://www.ntust.edu.tw"
+#     location: Taipei City, Taiwan.
+#     # company overview
+#     # overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+#   positions:
+#   - designation: Bachelor
+#     start: Sep 2017
+#     end: Jan 2021
+#     # don't provide end date if you are currently working there. It will be replaced by "Present"
+#     # end: Dec 2020
+#     # give some points about what was your responsibilities at the company.
+#     responsibilities:
+#     - NLP Lab with advisor Kuan-Yu Chen (Menphis Chen).

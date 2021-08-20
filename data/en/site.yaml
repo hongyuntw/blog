@@ -1,0 +1,9 @@
+# Copyright Notice
+copyright: © 2021 Copyright. hongyun 🥴🥴🥴🥴🥴
+
+# Meta description for your site.  This will help the search engines to find your site.
+description: hongyun's blog.
+
+customMenus:
+- name: About Me
+  url: https://hongyuntw.github.io/posts/introduction/
