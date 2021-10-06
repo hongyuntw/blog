@@ -36,6 +36,15 @@ projects:
   summary: 太亂了，很多要整理一下
   tags: ["hobby"]
 
+- name: BESS
+  # logo: /images/sections/projects/kubernetes.png
+  role: Contributor
+  timeline: "Feb 2021 - Aug 2021"
+  repo: "https://github.com/hongyuntw/DPR_BESS"  
+  url: # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: "ROCLING2021 A BERT-based Siamese-structured Retrieval Model - DPR 論文的延伸，融合了Reinforcement Learning與改善 ColBERT的 Query Augmentation"
+  tags: ["nlp","academic"]
+
 
 - name: AML person finding - E.SUN AI Challenge 2020
   # logo: /images/sections/projects/kubernetes.png
